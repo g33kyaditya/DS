@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1447163294 source:/home/g33kyaditya/DS/Trees/main.cpp
+	<iostream>
+	"Node.h"
+	"Functions.h"
+
+1447159223 source:/home/g33kyaditya/DS/Trees/src/Node.cpp
+	"Node.h"
+
+1447158939 /home/g33kyaditya/DS/Trees/include/Node.h
+
+1447161867 /home/g33kyaditya/DS/Trees/include/Functions.h
+	"Node.h"
+
+1447164824 source:/home/g33kyaditya/DS/Trees/src/Functions.cpp
+	<iostream>
+	<fstream>
+	"Functions.h"
+	"Node.h"
+
