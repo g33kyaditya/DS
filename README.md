@@ -1,2 +1,2 @@
 # DS
-DS Tutorial Sheets - Diwali Assignment
+DS Tutorial Sheets and DS Lab - Diwali Assignment
