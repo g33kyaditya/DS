@@ -1,4 +1,10 @@
-//Move all zeroes to end of array
+/***************************************************
+ *   Author: Aditya Dev Sharma                     *
+ *   Roll: UE143003                                *
+ *   Move all zeroes to end of array               *
+ *   Compiler : GNU GCC                            *
+ ***************************************************/
+
 
 #include <iostream>
 using namespace std;

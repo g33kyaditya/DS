@@ -1,4 +1,10 @@
-//Find the union and intersection of two usorted arrays.
+/**********************************************************
+ *   Author: Aditya Dev Sharma                            *
+ *   Roll: UE143003                                       *
+ *   Find the union and intersection of two usorted arrays*
+ *   Compiler : GNU GCC                                   *
+ **********************************************************/
+
 
 #include <iostream>
 using namespace std;

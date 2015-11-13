@@ -1,4 +1,9 @@
-//Rearrange positive and negative numbers in an array.
+/********************************************************   
+ *   Author: Aditya Dev Sharma                          *
+ *   Roll: UE143003                                     *
+ *   Rearrange positive and negative numbers in an array*
+ *   Compiler : GNU GCC                                 *
+ ********************************************************/
 
 #include <iostream>
 using namespace std;

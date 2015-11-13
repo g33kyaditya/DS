@@ -1,4 +1,10 @@
-//To find common elements in three sorted arrays
+/***************************************************
+ *   Author: Aditya Dev Sharma                     *
+ *   Roll: UE143003                                *
+ *   To find common elements in three sorted arrays*
+ *   Compiler : GNU GCC                            *
+ ***************************************************/
+
 
 
 #include <iostream>

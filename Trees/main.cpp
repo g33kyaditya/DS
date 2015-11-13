@@ -1,8 +1,8 @@
 /*************************************************
  *   Author: Aditya Dev Sharma                   *
  *   Roll: UE143003                              *
- *   Data Structures Assignment - Diwali Holidays *
- *   Comppiler : GNU GCC                         *
+ *   Data Structures Assignment - Diwali Holidays*
+ *   Compiler : GNU GCC                          *
  *************************************************/
 
 
