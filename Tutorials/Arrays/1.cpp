@@ -3,6 +3,7 @@
  *   Roll: UE143003                                *
  *   To find common elements in three sorted arrays*
  *   Compiler : GNU GCC                            *
+ *   www.github.com/g33kyaditya/DS/Arrays          * 
  ***************************************************/
 
 
