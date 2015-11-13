@@ -1,9 +1,10 @@
-/**********************************************************
- *   Author: Aditya Dev Sharma                            *
- *   Roll: UE143003                                       *
- *   Find the union and intersection of two usorted arrays*
- *   Compiler : GNU GCC                                   *
- **********************************************************/
+/********************************************************************
+ *   Author: Aditya Dev Sharma                                      *
+ *   Roll: UE143003                                                 *
+ *   Find the union and intersection of two usorted arrays          *
+ *   Compiler : GNU GCC                                             *
+ *   https://github.com/g33kyaditya/DS/tree/master/Tutorials/Arrays * 
+ ********************************************************************/
 
 
 #include <iostream>

@@ -1,10 +1,10 @@
-/***************************************************
- *   Author: Aditya Dev Sharma                     *
- *   Roll: UE143003                                *
- *   To find common elements in three sorted arrays*
- *   Compiler : GNU GCC                            *
- *   www.github.com/g33kyaditya/DS/Arrays          * 
- ***************************************************/
+/********************************************************************
+ *   Author: Aditya Dev Sharma                                      *
+ *   Roll: UE143003                                                 *
+ *   To find common elements in three sorted arrays                 *
+ *   Compiler : GNU GCC                                             *
+ *   https://github.com/g33kyaditya/DS/tree/master/Tutorials/Arrays * 
+ ********************************************************************/
 
 
 

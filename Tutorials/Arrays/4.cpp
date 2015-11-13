@@ -1,9 +1,11 @@
-/********************************************************   
- *   Author: Aditya Dev Sharma                          *
- *   Roll: UE143003                                     *
- *   Rearrange positive and negative numbers in an array*
- *   Compiler : GNU GCC                                 *
- ********************************************************/
+/********************************************************************
+ *   Author: Aditya Dev Sharma                                      *
+ *   Roll: UE143003                                                 *
+ *   Rearrange positive and negative numbers in an array            *
+ *   Compiler : GNU GCC                                             *
+ *   https://github.com/g33kyaditya/DS/tree/master/Tutorials/Arrays * 
+ ********************************************************************/
+
 
 #include <iostream>
 using namespace std;

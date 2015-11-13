@@ -1,10 +1,10 @@
-/***************************************************
- *   Author: Aditya Dev Sharma                     *
- *   Roll: UE143003                                *
- *   Move all zeroes to end of array               *
- *   Compiler : GNU GCC                            *
- ***************************************************/
-
+/********************************************************************
+ *   Author: Aditya Dev Sharma                                      *
+ *   Roll: UE143003                                                 *
+ *   Move all zeroes to end of array                                *
+ *   Compiler : GNU GCC                                             *
+ *   https://github.com/g33kyaditya/DS/tree/master/Tutorials/Arrays * 
+ ********************************************************************/
 
 #include <iostream>
 using namespace std;
