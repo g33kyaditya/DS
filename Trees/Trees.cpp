@@ -202,10 +202,10 @@ Node* inorderTraverse(Node* root)
         return nullptr;
 
 
-    preorderTraverse(root->getLeft());
+    inorderTraverse(root->getLeft());
     if(root->getData() > 0)
     cout << root->getData() << " -> ";
-    preorderTraverse(root->getRight());
+    inorderTraverse(root->getRight());
 }
 
 Node* postorderTraverse(Node* root)
